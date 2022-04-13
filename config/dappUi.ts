@@ -70,7 +70,7 @@ export const team = [
   {
     name: 'Paul B.',
     bio: 'Community relations and marketing',
-    imageUrl: '/paul.png',
+    imageUrl: '/paul.jpg',
     socialMediaLinks: [
       'https://twitter.com/PBajenaru',
       'https://www.facebook.com/umbra.paul',
@@ -81,7 +81,7 @@ export const team = [
   {
     name: 'Alex Z.',
     bio: 'Cryptocurrency Analyst & Advisor',
-    imageUrl: '/alex.png',
+    imageUrl: '/alex.jpg',
     socialMediaLinks: [
       'https://www.facebook.com/zarel13',
       'https://www.instagram.com/zara_alexandru/',
@@ -91,7 +91,7 @@ export const team = [
   {
     name: 'Florian O.',
     bio: 'Cryptocurrency Analyst & Advisor',
-    imageUrl: '/florian.png',
+    imageUrl: '/florian.jpg',
     socialMediaLinks: [
       'https://www.facebook.com/FLL000',
       'https://youtube.com/channel/UCYV5_SUtLWwnuyyWwaXAYNA',
@@ -101,7 +101,7 @@ export const team = [
   {
     name: 'Dan P.',
     bio: 'Smartcontract Developer & IT Analyst',
-    imageUrl: '/dan.png',
+    imageUrl: '/dan.jpg',
     socialMediaLinks: [
       'https://www.facebook.com/xdanu',
       'https://www.youtube.com/c/JayWalking',
