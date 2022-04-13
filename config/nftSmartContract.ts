@@ -4,7 +4,7 @@
 
 // Elven Tools NFT Smart Contract address - replace it with yours
 export const smartContractAddress =
-  'erd1qqqqqqqqqqqqqpgq5maff85xn0t3r8wr3zn4vhthej9c2ne2gtks8u4tr3';
+  'erd185l7k7h4a6aypx32nrwxmmy28n96l5uutcrlckjkvmntyepkhv4q3h734u';
 
 // Amount of the NFTs in the collection
 export const collectionSize = 384;
@@ -13,7 +13,7 @@ export const collectionSize = 384;
 export const tokensLimitPerAddressTotal = 3;
 
 // Collection ticker
-export const collectionTicker = 'HAHAHA-5c4481';
+export const collectionTicker = 'DEVIL-0398c2';
 
 // Start or pause minting process. UI will react on this. Remember to keep itin in sync with Smart Contract. This is very important.
 export const isMintingStarted = true;
