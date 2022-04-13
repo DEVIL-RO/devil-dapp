@@ -3,8 +3,7 @@
 // It is important to keep the same values as configured on smart contract
 
 // Elven Tools NFT Smart Contract address - replace it with yours
-export const smartContractAddress =
-  'erd185l7k7h4a6aypx32nrwxmmy28n96l5uutcrlckjkvmntyepkhv4q3h734u';
+export const smartContractAddress = 'erd185l7k7h4a6aypx32nrwxmmy28n96l5uutcrlckjkvmntyepkhv4q3h734u';
 
 // Amount of the NFTs in the collection
 export const collectionSize = 3333;
@@ -34,4 +33,4 @@ export const mintTxBaseGasLimit = 14000000;
 export const mintFunctionName = 'mint';
 
 // Single token seling price - configurable on smart contract when deployed 1 EGLD = 10^18
-export const tokenSellingPrice = '1000000000000000';
+export const tokenSellingPrice = '0^10';
