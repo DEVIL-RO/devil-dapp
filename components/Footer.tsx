@@ -15,31 +15,29 @@ export const Footer = () => {
         fontWeight="normal"
         textAlign="center"
       >
-        <Box>Elven Tools Dapp Template</Box>
+        <Box>DEVIL.RO</Box>
         <Box fontSize="xs" fontWeight="hairline">
-          All for free. Please support the project. Give it credit and tell the
-          world about it. Attribution is not required but welcomed in the form
-          of a backlink.
+          Focused on art, creativity, and building community around it.
         </Box>
         <Box fontSize="xs" fontWeight="bold">
           <Text
             as="a"
             color="elvenTools.color3.base"
-            href="https://www.elven.tools"
+            href="https://trust.market"
             target="_blank"
             rel="noopener noreferrer nofollow"
           >
-            elven.tools
+            Trust.Market
           </Text>{' '}
           ⚡{' '}
           <Text
             as="a"
             color="elvenTools.color3.base"
-            href="https://www.julian.io"
+            href="https://www.devil.ro"
             target="_blank"
             rel="noopener noreferrer nofollow"
           >
-            julian.io
+            DEVIL.RO
           </Text>
         </Box>
       </Container>
