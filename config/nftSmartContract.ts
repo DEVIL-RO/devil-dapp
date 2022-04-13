@@ -7,7 +7,7 @@ export const smartContractAddress =
   'erd185l7k7h4a6aypx32nrwxmmy28n96l5uutcrlckjkvmntyepkhv4q3h734u';
 
 // Amount of the NFTs in the collection
-export const collectionSize = 384;
+export const collectionSize = 3333;
 
 // Number of the NFTs for one address in total
 export const tokensLimitPerAddressTotal = 3;
