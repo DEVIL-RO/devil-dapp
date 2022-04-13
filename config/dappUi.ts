@@ -68,30 +68,45 @@ export const roadmap = [
 
 export const team = [
   {
-    name: 'John Doe',
-    bio: 'Web designer and artist',
-    imageUrl: '/john.svg',
-    socialMediaLinks: [
-      'https://www.twitter.com',
-      'https://www.behance.net',
-      'https://www.dribbble.com',
-    ],
-  },
-  {
-    name: 'Mark Doe',
-    bio: 'Smart Contract programmer',
-    imageUrl: '/mark.svg',
-    socialMediaLinks: ['https://www.twitter.com', 'https://www.github.com'],
-  },
-  {
-    name: 'Jack Doe',
+    name: 'Paul B.',
     bio: 'Community relations and marketing',
-    imageUrl: '/jack.svg',
+    imageUrl: 'https://i.imgur.com/wnhhr8b.jpg',
     socialMediaLinks: [
-      'https://www.twitter.com',
-      'https://www.discord.com',
-      'https://www.telegram.me',
-      'https://www.medium.com',
+      'https://twitter.com/PBajenaru',
+      'https://www.facebook.com/umbra.paul',
+      'https://www.instagram.com/umbrapaul/',
+      'mailto:paul@devil.ro',
     ],
   },
+  {
+    name: 'Alex Z.',
+    bio: 'Cryptocurrency Analyst & Advisor',
+    imageUrl: 'https://i.imgur.com/G3DzpIZ.jpg',
+    socialMediaLinks: [
+      'https://www.facebook.com/zarel13',
+      'https://www.instagram.com/zara_alexandru/',
+      'mailto:alex@devil.ro',
+    ],
+  },
+  {
+    name: 'Florian O.',
+    bio: 'Cryptocurrency Analyst & Advisor',
+    imageUrl: 'https://i.imgur.com/wNseqLw.jpg',
+    socialMediaLinks: [
+      'https://www.facebook.com/FLL000',
+      'https://youtube.com/channel/UCYV5_SUtLWwnuyyWwaXAYNA',
+      'florian@devil.ro',
+    ],
+  },
+  {
+    name: 'Dan P.',
+    bio: 'Smartcontract Developer & IT Analyst',
+    imageUrl: 'https://i.imgur.com/6xAQ88h.jpg',
+    socialMediaLinks: [
+      'https://www.facebook.com/xdanu',
+      'https://www.youtube.com/c/JayWalking',
+      'mailto:dan@devil.ro',
+    ],
+  },
+  
 ];
