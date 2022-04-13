@@ -15,7 +15,7 @@ export const Footer = () => {
         fontWeight="normal"
         textAlign="center"
       >
-        <Box>DEVIL.RO</Box>
+        <Box>DEVIL.RO NFT</Box>
         <Box fontSize="xs" fontWeight="hairline">
           Focused on art, creativity, and building community around it.
         </Box>
