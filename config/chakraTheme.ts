@@ -16,7 +16,7 @@ export const theme = extendTheme({
         minHeight: '100vh',
         overflowX: 'hidden',
         bgGradient:
-          'linear-gradient(90deg, elvenTools.bgStripes 0.1%, elvenTools.dark.base 0.1%, elvenTools.dark.base 50%, elvenTools.bgStripes 50%, elvenTools.bgStripes 50.1%, elvenTools.dark.base 50.1%, elvenTools.dark.base 100%);',
+          'linear-gradient(elvenTools.dark.base 0.1%, elvenTools.dark.base 50%, elvenTools.bgStripes 50%, elvenTools.bgStripes 50.1%, elvenTools.dark.base 50.1%, elvenTools.dark.base 100%);',
         bgSize: '700px',
         backgroundPositionX: '150px',
         color: 'elvenTools.white',
